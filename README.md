@@ -52,5 +52,5 @@ This project is open-source and available under the **MIT License**.
 If you have any questions, feel free to reach out!  
 
 📩 Email: maksdev0805@gmail.com 
-🔗 GitHub: [YourGitHubProfile](https://github.com/TupaKeks)
+🔗 GitHub: [TupaKeks](https://github.com/TupaKeks)
 
